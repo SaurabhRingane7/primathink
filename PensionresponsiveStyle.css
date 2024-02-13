@@ -1,0 +1,302 @@
+@media (min-width:100px){
+	.fooLogoooo{
+     	width: 90px !important;
+	border-radius: 10px;
+     }
+}
+
+@media (max-width:1335px){
+   .baba .row   .babImg{  
+	right: 30px;
+                  }
+
+  
+
+}
+
+
+@media (max-width:1250px){
+   
+    .cardss{
+    	margin-right: 20px;
+    }
+
+}
+
+@media (max-width:1199px){
+
+    .footerContent{
+    	display: flex;
+        justify-content: center;
+    }
+    .footerIcon{
+    	display: flex;
+        justify-content: center;
+    }
+}
+
+
+@media (max-width:1100px){
+   
+   .baba .row   .babImg{  
+	right: 50px;
+                  }
+   
+    .cardss{
+    	margin-right: 50px;
+    }
+}
+
+
+@media (max-width:1046px){
+	.containerBox p {
+    width: 360px;
+    padding: 0px 40px;
+         }
+}
+
+@media (max-width:998px){
+  .familyImage{
+           margin-right: 30px;
+      }
+      .listbacGro{
+           margin-left: 30px;
+           width: 370px;
+      }
+      .containerBox p {
+      width: 330px;
+       padding: 0px 25px;
+         }
+}
+
+@media (max-width:998px){
+   
+    .baba .row   .babImg{  
+	              right: 80px;
+                  }
+
+    .cardss .card{
+    	width: 10rem !important;
+    }
+
+     .cardss  .learnMore{
+    	margin-left: 50px !important;
+    }
+    
+     .moveMenu{
+     	margin-bottom: 30px !important;
+     }
+     .challImage{
+     	margin-left: 160px;
+     }
+     .mario{
+     	width: 80px;
+     	height: 128px;
+     }
+     
+     .nobita{
+     	width: 90px;
+     	height: 128px; ;
+     }
+     .nimi{
+     	margin-top: 0px !important;
+     }
+     .contactUS{
+     	width: 320px !important;
+     }
+      
+     
+}
+
+@media (max-width:991px){
+  .cardss{
+  	display: flex;
+  	justify-content: center;
+  }
+  .slider{
+  	margin-top: 40px;
+  }
+}
+
+
+@media (max-width:852px){
+   
+     .recBox{
+     	width: 283px;
+     	padding: 40px;
+     }
+     .contactUS{
+     	width: 220px !important;
+     }
+     
+     .mario{
+     	width: 70px;
+     	height: 110px; ;
+     }
+     .nobita{
+     	width: 80px;
+     	height: 105px; 
+     	padding: 5px;
+     }
+      .familyImage{
+           margin-right: 60px;
+      }
+      .listbacGro{
+           margin-left: 60px;
+           width: 370px;
+      }
+}
+
+
+
+@media (max-width:768px){
+   
+
+     .subheading{
+     	justify-content: center;
+     }
+     .btmove{
+     	justify-content: center;
+     }
+      .babasahebImg{
+      	display: flex;
+      	justify-content: center; 
+      }
+      .baba .row   .babImg{ 
+			
+			right: 0px;
+		}
+
+      .revoContent{
+      	justify-content: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+     .recBox{
+     	width: 250px; 
+     }
+      
+       .oppocard{
+       	display: flex;
+       	flex-direction: column;
+       	align-items: center;
+       }
+     .challImage{
+     	order: 1; 
+     	width: 76%;
+     	margin-left: 0px;
+     }
+     .fourbars{
+     	order: 2;
+     	display: flex;
+     	flex-direction: column;
+     	align-items: center;
+
+     }
+     .ControlBox{
+     	margin-bottom: 30px;
+     }
+     .nobita{
+     	width: 68px;
+     	margin-right: 6px;
+     }
+    
+     .contactUS{
+     	width: auto;
+     }
+     .home1{
+     	display: flex;
+     	justify-content: center;
+     }
+     .faq1{
+     	display: flex;
+     	justify-content: center;
+     }
+     .footerLogo1{
+     	display: flex;
+     	justify-content: center;
+     }
+     
+     .challImage img { 
+      margin-top: 0px;  
+      }
+    
+     .peoprech{
+      text-align: center;
+      margin-bottom: 20px;
+      margin-top: 60px;
+     } 
+     
+    .doremon{
+   	     justify-content: center;
+    display: flex; 
+    align-items: center;
+    margin-bottom: 20px;
+   }
+}
+
+
+
+@media (max-width:575px){
+  .familyImage{
+  	display: flex;
+  	justify-content: center;
+  	margin-left: 90px !important;
+  }
+}
+
+
+@media (max-width:734px){
+   .familyImage img{
+   	margin-left: 0px !important;
+   }
+   
+   .listbacGro{ 
+   	  width: 100%;
+      }
+
+}
+
+@media (max-width:767px){
+   .doremon{
+   	     justify-content: center;
+    display: flex; 
+    align-items: center;
+    margin-bottom: 20px;
+
+   }
+    .peoprech{
+    	margin-top: 0px;
+      text-align: center;
+      margin-bottom: 20px; 
+
+}
+
+
+
+@media (max-width:605px){
+	.peoprech {
+		margin-bottom: 0px !important;
+		text-align: center;
+	} 
+	.icoHover{
+		margin-top: 20px;
+	} 
+
+}
+
+
+@media (max-width:575px){
+	.vikaMa {
+		display: flex;
+		justify-content: center;
+	} 
+	.selcond_select{
+		display: flex;
+		justify-content: center !important;
+		padding-right: 0px;
+		margin-top: 5px;
+	} 
+
+}
